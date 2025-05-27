@@ -48,7 +48,7 @@ jobs:
         #  revision: "r11"
         - sub_level: "81"
           os_patch_level: "2022-02"
-          revision: "r9"
+          revision: "r10"
         #- sub_level: "136"
         #  os_patch_level: "2022-11"
         #  revision: "r15"
